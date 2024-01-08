@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>D:\git\DCI_HR_API\DCI_HR_API\bin\Release\net7.0\publish\</_PublishTargetUrl>
+    <History>True|2024-01-08T09:12:35.3699295Z;True|2024-01-08T16:12:30.9698821+07:00;True|2024-01-08T15:54:23.1125859+07:00;True|2024-01-08T15:46:40.8106885+07:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>
